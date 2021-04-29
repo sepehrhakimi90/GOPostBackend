@@ -10,5 +10,5 @@ Environment variables:<br />
 | MONGO_PASSWORD | The password of MongoDb | Y | | 
 | MONGO_DB_NAME | The name of the DB on mongoDb | Y |
 | REDIS_IP | The IP of REDIS server | Y | |
-| REDIS_PORT | The REDIS server PORT | Y | 6379 |
-| REDIS_EXPIRY | The expiry of the record on REDIS | Y | 10000 MS |
+| REDIS_PORT | The REDIS server PORT | N | 6379 |
+| REDIS_EXPIRY | The expiry of the record on REDIS | N | 10000 MS |
