@@ -6,10 +6,10 @@ import (
 	"net/http"
 	"strings"
 
-	"crashGo/cache"
-	"crashGo/entity"
-	"crashGo/errors"
-	"crashGo/service"
+	"github.com/sepehrhakimi90/GOPostBackend/cache"
+	"github.com/sepehrhakimi90/GOPostBackend/entity"
+	"github.com/sepehrhakimi90/GOPostBackend/errors"
+	"github.com/sepehrhakimi90/GOPostBackend/service"
 )
 
 type PostController interface {

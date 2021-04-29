@@ -10,10 +10,10 @@ import (
 
 	"github.com/gorilla/mux"
 
-	"crashGo/cache"
-	"crashGo/controller"
-	"crashGo/repository"
-	"crashGo/service"
+	"github.com/sepehrhakimi90/GOPostBackend/cache"
+	"github.com/sepehrhakimi90/GOPostBackend/controller"
+	"github.com/sepehrhakimi90/GOPostBackend/repository"
+	"github.com/sepehrhakimi90/GOPostBackend/service"
 )
 
 const (

@@ -7,7 +7,7 @@ import (
 
 	"github.com/go-redis/redis"
 
-	"crashGo/entity"
+	"github.com/sepehrhakimi90/GOPostBackend/entity"
 )
 
 type redisCache struct {

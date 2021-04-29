@@ -3,8 +3,8 @@ package service
 import (
 	"errors"
 
-	"crashGo/entity"
-	"crashGo/repository"
+	"github.com/sepehrhakimi90/GOPostBackend/entity"
+	"github.com/sepehrhakimi90/GOPostBackend/repository"
 )
 
 type PostService interface {

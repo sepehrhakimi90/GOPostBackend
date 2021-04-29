@@ -1,7 +1,7 @@
 package cache
 
 import (
-	"crashGo/entity"
+	"github.com/sepehrhakimi90/GOPostBackend/entity"
 )
 
 type PostCache interface {

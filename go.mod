@@ -1,4 +1,4 @@
-module crashGo
+module github.com/sepehrhakimi90/GOPostBackend
 
 go 1.15
 

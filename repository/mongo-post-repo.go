@@ -12,7 +12,7 @@ import (
 	"go.mongodb.org/mongo-driver/mongo"
 	"go.mongodb.org/mongo-driver/mongo/options"
 
-	"crashGo/entity"
+	"github.com/sepehrhakimi90/GOPostBackend/entity"
 )
 
 // TODO: DB Config validation

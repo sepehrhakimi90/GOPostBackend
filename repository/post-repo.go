@@ -1,7 +1,7 @@
 package repository
 
 import (
-	"crashGo/entity"
+	"github.com/sepehrhakimi90/GOPostBackend/entity"
 )
 
 type PostRepository interface {

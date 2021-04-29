@@ -6,7 +6,7 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/mock"
 
-	"crashGo/entity"
+	"github.com/sepehrhakimi90/GOPostBackend/entity"
 )
 
 type mockRepository struct {
